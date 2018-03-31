@@ -1,0 +1,1 @@
+_H:	|batch	|epoch	%avg_sse	%cnt_err	%avg_ext_rew	%avg_cycles	%epoch_time_tot	%epoch_time_usr
