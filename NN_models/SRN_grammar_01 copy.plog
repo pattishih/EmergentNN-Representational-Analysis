@@ -1,0 +1,574 @@
+Thu Jan  3 15:27:39 2013: taMisc::SetLogFile -- Log file opened for writing.
+Thu Jan  3 15:27:40 2013: Network: Network_0 auto building
+Thu Jan  3 15:28:17 2013: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:17 2013: *** LOG: Undo: New source added!
+Thu Jan  3 15:28:17 2013: *** LOG: last_diff_n:  0  pct:  0
+Thu Jan  3 15:28:20 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:20 2013: *** LOG: last_diff_n:  26  pct:  0.00128726
+Thu Jan  3 15:28:21 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:21 2013: *** LOG: last_diff_n:  32  pct:  0.00158432
+Thu Jan  3 15:28:21 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:21 2013: *** LOG: last_diff_n:  32  pct:  0.00158432
+Thu Jan  3 15:28:25 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:25 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:28:26 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:26 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:28:27 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:27 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:28:28 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:28 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:28:29 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:29 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:28:30 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:30 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:28:30 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:31 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:28:31 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:31 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:28:32 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:32 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:28:33 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:33 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:28:33 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:33 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:28:34 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:34 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:28:35 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:35 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:28:35 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:35 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:28:36 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:36 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:28:36 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:37 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:28:39 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:39 2013: *** LOG: last_diff_n:  36  pct:  0.00178235
+Thu Jan  3 15:28:42 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:42 2013: *** LOG: last_diff_n:  36  pct:  0.00178235
+Thu Jan  3 15:28:57 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:28:57 2013: *** LOG: last_diff_n:  36  pct:  0.00178235
+Thu Jan  3 15:29:02 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:02 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:29:21 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:21 2013: *** LOG: last_diff_n:  36  pct:  0.00178235
+Thu Jan  3 15:29:23 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:23 2013: *** LOG: last_diff_n:  36  pct:  0.00178235
+Thu Jan  3 15:29:30 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:30 2013: *** LOG: last_diff_n:  36  pct:  0.00178235
+Thu Jan  3 15:29:30 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:30 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:29:31 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:31 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:29:32 2013: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:32 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:29:34 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:34 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:29:39 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:39 2013: *** LOG: last_diff_n:  36  pct:  0.00178235
+Thu Jan  3 15:29:41 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:41 2013: *** LOG: last_diff_n:  36  pct:  0.00178235
+Thu Jan  3 15:29:43 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:43 2013: *** LOG: last_diff_n:  36  pct:  0.00178235
+Thu Jan  3 15:29:44 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:44 2013: *** LOG: last_diff_n:  36  pct:  0.00178235
+Thu Jan  3 15:29:46 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:46 2013: *** LOG: last_diff_n:  36  pct:  0.00178235
+Thu Jan  3 15:29:47 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:47 2013: *** LOG: last_diff_n:  36  pct:  0.00178235
+Thu Jan  3 15:29:48 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:48 2013: *** LOG: last_diff_n:  36  pct:  0.00178235
+Thu Jan  3 15:29:49 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:49 2013: *** LOG: last_diff_n:  36  pct:  0.00178235
+Thu Jan  3 15:29:50 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:50 2013: *** LOG: last_diff_n:  36  pct:  0.00178235
+Thu Jan  3 15:29:52 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:52 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:29:54 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:54 2013: *** LOG: last_diff_n:  36  pct:  0.00178235
+Thu Jan  3 15:29:55 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:55 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:29:59 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:29:59 2013: *** LOG: last_diff_n:  36  pct:  0.00178235
+Thu Jan  3 15:30:01 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:01 2013: *** LOG: last_diff_n:  36  pct:  0.00178235
+Thu Jan  3 15:30:27 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:27 2013: *** LOG: last_diff_n:  36  pct:  0.00178235
+Thu Jan  3 15:30:27 2013: *** DEBUG: Saved auto save file: /Volumes/My_HD/Dropbox/The Brown Folder/S3_Fall2012/CLPS1492/project/SRN_grammar_copy1 copy_autosave.proj
+Thu Jan  3 15:30:29 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:29 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:30 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:30 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:31 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:31 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:32 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:32 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:32 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:32 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:33 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:33 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:33 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:33 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:33 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:33 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:34 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:34 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:34 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:34 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:34 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:34 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:34 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:35 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:35 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:35 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:35 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:35 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:36 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:36 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:36 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:36 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:37 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:37 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:37 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:37 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:41 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:41 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:42 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:42 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:42 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:42 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:43 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:43 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:43 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:43 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:44 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:44 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:45 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:45 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:45 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:45 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:46 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:46 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:46 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:46 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:47 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:47 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:47 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:47 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:48 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:48 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:48 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:48 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:48 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:48 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:49 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:49 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:49 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:49 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:50 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:50 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:50 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:50 2013: *** LOG: last_diff_n:  32  pct:  0.00158432
+Thu Jan  3 15:30:50 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:50 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:50 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:51 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:51 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:51 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:51 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:51 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:52 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:52 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:52 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:52 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:56 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:56 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:58 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:58 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:58 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:58 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:30:59 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:30:59 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:00 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:00 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:00 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:00 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:00 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:01 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:01 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:01 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:01 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:01 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:01 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:02 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:02 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:02 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:02 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:02 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:02 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:02 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:03 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:03 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:03 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:03 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:03 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:03 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:03 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:03 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:04 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:04 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:12 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:12 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:12 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:12 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:13 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:13 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:14 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:14 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:15 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:15 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:15 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:15 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:16 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:16 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:16 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:16 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:16 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:16 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:17 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:17 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:17 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:17 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:17 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:18 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:18 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:18 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:18 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:19 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:19 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:19 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:19 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:19 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:20 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:20 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:20 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:20 2013: *** LOG: last_diff_n:  32  pct:  0.00158432
+Thu Jan  3 15:31:20 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:21 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:21 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:21 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:21 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:21 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:22 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:22 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:22 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:22 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:22 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:22 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:23 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:23 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:25 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:25 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:26 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:26 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:26 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:26 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:27 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:27 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:27 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:27 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:28 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:28 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:28 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:29 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:29 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:29 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:29 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:29 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:30 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:30 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:30 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:30 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:30 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:30 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:31 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:31 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:31 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:31 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:31 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:31 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:32 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:32 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:32 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:32 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:33 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:33 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:33 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:33 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:33 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:34 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:34 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:34 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:34 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:34 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:35 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:35 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:35 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:35 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:35 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:36 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:36 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:36 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:37 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:37 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:38 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:38 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:38 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:38 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:38 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:38 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:39 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:39 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:39 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:39 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:39 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:39 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:39 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:39 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:40 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:40 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:40 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:40 2013: *** LOG: last_diff_n:  32  pct:  0.00158432
+Thu Jan  3 15:31:40 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:41 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:41 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:41 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:41 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:41 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:41 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:41 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:42 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:42 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:42 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:42 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:43 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:43 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:43 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:43 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:43 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:43 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:44 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:44 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:44 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:44 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:44 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:45 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:45 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:45 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:45 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:45 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:46 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:46 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:46 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:46 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:46 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:46 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:47 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:47 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:47 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:47 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:47 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:47 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:47 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:48 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:48 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:48 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:48 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:48 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:48 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:49 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:49 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:49 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:50 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:50 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:50 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:50 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:51 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:51 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:51 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:51 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:51 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:51 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:52 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:52 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:52 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:52 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:52 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:53 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:53 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:53 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:53 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:53 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:54 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:54 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:54 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:54 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:54 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:54 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:54 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:54 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:55 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:55 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:55 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:55 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:56 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:56 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:56 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:56 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:56 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:57 2013: *** LOG: last_diff_n:  32  pct:  0.00158432
+Thu Jan  3 15:31:57 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:57 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:57 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:57 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:57 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:57 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:58 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:58 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:58 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:58 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:58 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:58 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:58 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:59 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:59 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:59 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:31:59 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:31:59 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:00 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:00 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:00 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:00 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:00 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:00 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:01 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:01 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:01 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:01 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:01 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:01 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:02 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:02 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:02 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:02 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:02 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:02 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:03 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:03 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:03 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:03 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:03 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:04 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:04 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:04 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:04 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:04 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:04 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:04 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:05 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:05 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:05 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:05 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:05 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:06 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:06 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:06 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:06 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:06 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:07 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:07 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:07 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:07 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:07 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:07 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:08 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:08 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:08 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:08 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:08 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:08 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:09 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:09 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:09 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:09 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:09 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:09 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:09 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:10 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:10 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:10 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:10 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:10 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:11 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:11 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:11 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:11 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:11 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:11 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:12 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:12 2013: *** LOG: last_diff_n:  32  pct:  0.00158432
+Thu Jan  3 15:32:12 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:12 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:12 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:12 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:12 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:13 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:13 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:13 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:13 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:13 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:13 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:14 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:14 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:14 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:14 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:14 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:15 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:15 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:15 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:15 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:15 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:15 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:16 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:16 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:16 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:16 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:17 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:17 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:17 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:17 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:17 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:17 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:18 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:18 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:18 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:18 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:18 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:18 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:18 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:18 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:19 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:19 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:19 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:19 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:19 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:19 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:19 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:19 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:20 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:20 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:20 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:20 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:20 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:21 2013: *** LOG: last_diff_n:  34  pct:  0.00168333
+Thu Jan  3 15:32:21 2013: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[1][1] saving at: .
+Thu Jan  3 15:32:21 2013: *** LOG: last_diff_n:  34  pct:  0.00168333

@@ -1,0 +1,6 @@
+Thu Dec  6 23:00:03 2012: taMisc::SetLogFile -- Log file opened for writing.
+Thu Dec  6 23:00:04 2012: Network: Network_0 auto building
+Thu Dec  6 23:00:13 2012: *** LOG: SaveUndo of action: Call Method: SaveData_Gui on: TrialOutputData at path: .data.gp[1][0] saving at: .
+Thu Dec  6 23:00:13 2012: *** LOG: Undo: New source added!
+Thu Dec  6 23:00:13 2012: *** LOG: last_diff_n:  0  pct:  0
+Thu Dec  6 23:00:30 2012: taMisc::SetLogFile -- Setting log file to: /Volumes/My_HD/Dropbox/The Brown Folder/S3_Fall2012/CLPS1492/project/SRN_grammar_copy5.plog
